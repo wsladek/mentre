@@ -1,0 +1,40 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 170px;    
+    }
+    
+.header {
+flex-basis: 10%;
+align-self: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: lighter;
+font-size: 50%
+}
+    
+.thanks {
+text-align: center;
+font-size: 700%;
+}
+
+.text {
+text-align: center;
+font-size: 150%;
+font-style: italic;
+font-weight: bold
+}
+
+.footer {
+flex-basis: 30%;
+}
+
+body {
+background-image: url("/static/boots.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+height: 650px;
+padding: 50px 0 0 0; 
+}
