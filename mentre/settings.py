@@ -23,11 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-#DEBUG = False
+#DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['mentre-landing-env.jqn2fnmgpp.us-west-2.elasticbeanstalk.com', '127.0.0.1']
-#ALLOWED_HOSTS = ['.mentre.com']
+ALLOWED_HOSTS = ['django-env.2r3we4smrz.us-west-2.elasticbeanstalk.com', '127.0.0.1', '.mentre.com']
 
 # Application definition
 
