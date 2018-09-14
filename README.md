@@ -10,3 +10,9 @@ in the top level 'mentre/' directory, run 'python manage.py runserver' and visit
 
 The CSS for the landing page lives in mentre/static/styles.css
 The HTML for the landing page lives in mentre/landing/templates/landing/index.html
+
+
+
+Before deploying to elastic beanstalk remember:
+1. Add the proper secret key
+2. change debug to false
