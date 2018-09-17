@@ -29,7 +29,7 @@ font-family: "Times New Roman", Times, serif;
 
 body {
 background-image: url("/static/boots.jpg");
-background-position: center;
+background-position: center top;
 background-size: cover;
 background-repeat: no-repeat;
 color: white;
