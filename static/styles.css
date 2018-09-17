@@ -6,23 +6,24 @@
     }
     
 .header {
-flex-basis: 10%;
+
 align-self: center;
-font-family: Arial, Helvetica, sans-serif;
-font-weight: lighter;
-font-size: 50%
+font-family: 'Open Sans', sans-serif;
+font-style: light;
+font-size: 100%
 }
     
 .thanks {
 text-align: center;
-font-size: 700%;
+font-size: 600%;
+text-shadow: 1px 1px 1px #000000;
 }
 
 .text {
 text-align: center;
 font-size: 150%;
 font-style: italic;
-font-weight: bold
+text-shadow: 1px 1px 2px #000000;
 }
 
 .footer {
