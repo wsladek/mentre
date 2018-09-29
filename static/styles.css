@@ -32,7 +32,7 @@ padding: 0px 20px 0px;
 }
 
 body {
-background-image: url("/static/boots.jpg");
+background-image: url("/static/boots_reduced.jpg");
 background-position: center top;
 background-size: cover;
 background-repeat: no-repeat;
